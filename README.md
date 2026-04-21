@@ -63,7 +63,6 @@ Output filtered URL list
 spider/
 ├── spider.py        # Main crawler script
 ├── README.md        # Documentation
-└── requirements.txt # Dependencies (optional)
 ```
 
 ---
