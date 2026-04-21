@@ -92,7 +92,7 @@ Unauthorized crawling may violate terms of service and applicable laws.
 
 **Dharun R** — Cybersecurity Student
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/Dharun1319)
 
 ---
 
