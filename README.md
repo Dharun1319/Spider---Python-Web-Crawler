@@ -1,8 +1,9 @@
 # 🕷️ Spider — Web Crawler Tool
 
 > A lightweight Python tool that recursively crawls websites, extracts URLs, and filters them by keyword.
-<video src="https://github.com/user-attachments/assets/be896198-4556-4325-85ff-f307f8a36390" controls width="100%"></video>
 ---
+![Spider Demo](https://github.com/user-attachments/assets/943154e0-7ee5-4696-9cb4-b70142f7fb89)
+
 
 ## 🚀 Features
 
