@@ -2,7 +2,8 @@
 
 A simple Python-based web crawler that extracts and filters URLs based on keywords.
 
-https://github.com/user-attachments/assets/be896198-4556-4325-85ff-f307f8a36390
+<video src="https://github.com/user-attachments/assets/be896198-4556-4325-85ff-f307f8a36390" controls width="100%"></video>
+
 
 ## 🚀 Features
 - Recursive crawling
